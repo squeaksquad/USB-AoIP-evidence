@@ -1,0 +1,18 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+
+# Generated test media and captures
+/*.wav
+*.log
+*.pcap
+*.pcap[0-9]
+# ...except the measurement evidence the handoff and findings cite directly.
+!latency/phase4-candidate-*/bridge.log
+!latency/phase4-candidate-*/daemon.log
+!latency/phase5-20260905/*.log
+!latency/*-api/sap-timeline.log
+!latency/*-api/settle.log
+
+# Local reference replay executables; source and bounded evidence are retained.
+/dsp-service/**/reference-export

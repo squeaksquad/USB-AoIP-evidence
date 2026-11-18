@@ -1,0 +1,8 @@
+usb16x16-dante-owner  bc48691122f2357606e2cd2a849cde4aee8c0ad6cb7998cad41aaa0c2f320b3e
+usb16x16-dsp-offline  46f36659410b612d3ad9da2ae849ec8cfcf40eda672c700c8338af0318cb316a
+source list           a884de211655bb056ff75865890eb1e99dd0fcafb709cba37db59fc0303ab19e
+compiler              g++ (Debian 14.2.0-19) 14.2.0
+cmake                 cmake version 3.31.6
+machine               Linux 6.18.34+rpt-rpi-2712 aarch64
+built                 2026-11-18T17:24:25Z in /home/bdimaio/usb-aoip-owner-monitor
+runner check          preset="pinned monitor vector" internal=2 biquads=3 delay=48 samples block=48

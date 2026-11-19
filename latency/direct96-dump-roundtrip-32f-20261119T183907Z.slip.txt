@@ -1,0 +1,15 @@
+direct96-dump 20261119T183907Z: input 1 capture (USB16X16_DUMP), 250 impulses 24000 apart, 96 kHz, direct, owner bc486911
+marker spacing {24000: 249}
+returned impulse spacing {24000: 245, 23992: 2, 24008: 2}
+impulse index, marker, returned peak, peak-marker:
+11 312236 312912 676
+12 336236 336912 676
+13 360236 360904 668
+14 384236 384912 676
+15 408236 408912 676
+217 5256236 5256912 676
+218 5280236 5280912 676
+219 5304236 5304904 668
+220 5328236 5328912 676
+221 5352236 5352912 676
+samples over 0.1 in capture: 250 ; capture is exactly zero within 30 samples of each of these peaks

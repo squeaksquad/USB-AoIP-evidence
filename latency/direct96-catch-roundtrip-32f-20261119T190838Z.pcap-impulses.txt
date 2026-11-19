@@ -1,0 +1,12 @@
+Pi receives 169.254.248.189:61446 -> 169.254.92.97:46415: 8 channels, 16 frames a packet, 140312 packets, 23.4 s, stamp steps off the packet size: 0
+Pi receives 169.254.248.189:61445 -> 169.254.92.97:53078: 8 channels, 16 frames a packet, 140312 packets, 23.4 s, stamp steps off the packet size: 0
+Pi sends 169.254.92.97:44788 -> 169.254.248.189:14342: 4 channels, 32 frames a packet, 70155 packets, 23.4 s, stamp steps off the packet size: 0
+Pi sends 169.254.92.97:53328 -> 169.254.248.189:14343: 4 channels, 32 frames a packet, 70155 packets, 23.4 s, stamp steps off the packet size: 0
+Pi sends 169.254.92.97:50116 -> 169.254.248.189:14339: 4 channels, 32 frames a packet, 70155 packets, 23.4 s, stamp steps off the packet size: 0
+Pi sends 169.254.92.97:58494 -> 169.254.248.189:14338: 4 channels, 32 frames a packet, 70155 packets, 23.4 s, stamp steps off the packet size: 0
+Pi sends flow :58494->:14338 ch1: 88 impulses, spacing {24000: 87}
+    stamps mod 24000: {20420: 88}
+Pi receives flow :61445->:53078 ch1: 88 impulses, spacing {24000: 85, 23992: 1, 24008: 1}
+    1795115369.275015 stamp 232362140556 is 23992 after the one before (mod 24000: 20556)
+    1795115369.525175 stamp 232362164564 is 24008 after the one before (mod 24000: 20564)
+    stamps mod 24000: {20564: 87, 20556: 1}

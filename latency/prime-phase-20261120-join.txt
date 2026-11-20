@@ -1,0 +1,212 @@
+(48000, 'preset')
+   found=  80 lag=  376 x1
+   found=  81 lag=  376 x14
+   found=  82 lag=  376 x12
+   found=  82 lag=  377 x1
+   found=  82 lag= 1149 x1
+   found=  83 lag=  376 x1
+   found=  84 lag=  377 x1
+   found=  85 lag=  376 x1
+   found=  90 lag=  376 x1
+   found=  94 lag=  376 x1
+   found= 100 lag=  376 x2
+   found= 100 lag=  377 x1
+   found= 101 lag=  376 x3
+   found= 103 lag=  376 x1
+   found= 103 lag=  377 x1
+(96000, 'direct')
+   found= 160 lag=  676 x1
+   found= 161 lag=  676 x3
+   found= 162 lag=  675 x1
+   found= 162 lag=  676 x8
+   found= 162 lag=  677 x1
+   found= 163 lag=  675 x2
+   found= 163 lag=  676 x9
+   found= 163 lag= 6585 x1
+   found= 164 lag=  664 x1
+   found= 164 lag=  675 x2
+   found= 164 lag=  676 x8
+   found= 165 lag=  675 x2
+   found= 165 lag= 6591 x1
+   found= 175 lag=  676 x1
+   found= 175 lag=  677 x1
+   found= 182 lag=  676 x1
+   found= 187 lag=  676 x1
+   found= 188 lag=  676 x1
+   found= 195 lag=  676 x1
+   found= 201 lag=  676 x1
+   found= 208 lag=  676 x1
+   found= 210 lag=  676 x1
+   found= 222 lag=  675 x1
+   found= 222 lag=  676 x1
+   found= 233 lag=  675 x1
+   found= 235 lag=  676 x1
+   found= 238 lag=  676 x1
+   found= 243 lag=  677 x1
+   found= 244 lag=  675 x1
+   found= 244 lag=  676 x5
+   found= 245 lag=  675 x3
+   found= 245 lag=  676 x10
+   found= 245 lag=  677 x1
+   found= 246 lag=  675 x2
+   found= 246 lag=  676 x4
+   found= 246 lag=  677 x1
+   found= 246 lag= 6587 x1
+   found= 247 lag=  676 x2
+   found= 248 lag=  675 x1
+   found= 252 lag=  676 x1
+(96000, 'preset')
+   found= 160 lag=  678 x1
+   found= 166 lag=  676 x1
+   found= 167 lag=  676 x4
+   found= 168 lag=  676 x3
+   found= 168 lag=  677 x1
+   found= 169 lag=  676 x4
+   found= 169 lag=  677 x1
+   found= 170 lag=  676 x2
+   found= 170 lag=  677 x1
+   found= 171 lag=  676 x1
+   found= 180 lag=  676 x1
+   found= 209 lag=  676 x1
+   found= 241 lag=  676 x1
+   found= 249 lag=  676 x3
+   found= 250 lag=  676 x4
+   found= 250 lag=  677 x1
+   found= 251 lag=  676 x6
+   found= 252 lag=  771 x1
+   found= 252 lag=  772 x1
+(None, None)
+   found=  80 lag=  376 x5
+   found=  80 lag=  377 x2
+   found=  80 lag= 3332 x1
+   found=  81 lag=  376 x2
+   found=  81 lag=  377 x1
+   found=  81 lag= 3333 x1
+   found=  82 lag=  376 x1
+   found=  89 lag=  376 x1
+   found=  94 lag=  376 x1
+19 13:03:56 preset found 209 lag 676 drained 0 t 91 mon96-unity-1-roundtrip-32f-20261119T130355Z-api/readiness
+19 13:04:01 preset found 166 lag 676 drained 36 t 96 mon96-unity-1-roundtrip-32f-20261119T130355Z-api/readiness
+19 13:04:05 preset found 250 lag 676 drained 72 t 100 mon96-unity-1-roundtrip-32f-20261119T130355Z-api/readiness
+19 13:04:09 preset found 169 lag 676 drained 48 t 104 mon96-unity-1-roundtrip-32f-20261119T130355Z.json
+19 13:07:32 preset found 168 lag 676 drained 60 t 306 mon96-unity-2-roundtrip-32f-20261119T130731Z-api/readiness
+19 13:07:36 preset found 250 lag 676 drained 84 t 311 mon96-unity-2-roundtrip-32f-20261119T130731Z-api/readiness
+19 13:07:41 preset found 167 lag 676 drained 72 t 316 mon96-unity-2-roundtrip-32f-20261119T130731Z-api/readiness
+19 13:07:45 preset found 251 lag 676 drained 36 t 319 mon96-unity-2-roundtrip-32f-20261119T130731Z.json
+19 13:11:07 preset found 251 lag 676 drained 12 t 522 mon96-unity-3-roundtrip-32f-20261119T131106Z-api/readiness
+19 13:11:12 preset found 167 lag 676 drained 12 t 527 mon96-unity-3-roundtrip-32f-20261119T131106Z-api/readiness
+19 13:11:17 preset found 249 lag 676 drained 84 t 531 mon96-unity-3-roundtrip-32f-20261119T131106Z-api/readiness
+19 13:11:20 preset found 169 lag 676 drained 60 t 535 mon96-unity-3-roundtrip-32f-20261119T131106Z.json
+19 13:14:43 preset found 167 lag 676 drained 72 t 738 mon96-unity-4-roundtrip-32f-20261119T131442Z-api/readiness
+19 13:14:47 preset found 250 lag 677 drained 24 t 742 mon96-unity-4-roundtrip-32f-20261119T131442Z-api/readiness
+19 13:14:52 preset found 168 lag 676 drained 0 t 747 mon96-unity-4-roundtrip-32f-20261119T131442Z-api/readiness
+19 13:14:56 preset found 251 lag 676 drained 72 t 750 mon96-unity-4-roundtrip-32f-20261119T131442Z.json
+19 13:18:19 preset found 251 lag 676 drained 0 t 953 mon96-unity-loop8-soak-600s-32f-20261119T131817Z-api/readi
+19 13:18:23 preset found 168 lag 677 drained 0 t 958 mon96-unity-loop8-soak-600s-32f-20261119T131817Z-api/readi
+19 13:18:28 preset found 249 lag 676 drained 84 t 963 mon96-unity-loop8-soak-600s-32f-20261119T131817Z-api/readi
+19 18:24:09 direct found 182 lag 676 drained 0 t 69 direct96-control-1-roundtrip-32f-20261119T182407Z-api/read
+19 18:24:13 direct found 160 lag 676 drained 24 t 74 direct96-control-1-roundtrip-32f-20261119T182407Z-api/read
+19 18:24:18 direct found 244 lag 676 drained 60 t 78 direct96-control-1-roundtrip-32f-20261119T182407Z-api/read
+19 18:24:22 direct found 163 lag 676 drained 84 t 82 direct96-control-1-roundtrip-32f-20261119T182407Z.json
+19 18:27:45 direct found 245 lag 676 drained 36 t 285 direct96-control-2-roundtrip-32f-20261119T182743Z-api/read
+19 18:27:49 direct found 162 lag 676 drained 24 t 290 direct96-control-2-roundtrip-32f-20261119T182743Z-api/read
+19 18:27:54 direct found 245 lag 676 drained 84 t 294 direct96-control-2-roundtrip-32f-20261119T182743Z-api/read
+19 18:27:58 direct found 163 lag 676 drained 84 t 298 direct96-control-2-roundtrip-32f-20261119T182743Z.json
+19 18:31:20 direct found 162 lag 676 drained 72 t 501 direct96-control-3-roundtrip-32f-20261119T183119Z-api/read
+19 18:31:25 direct found 245 lag 676 drained 84 t 505 direct96-control-3-roundtrip-32f-20261119T183119Z-api/read
+19 18:31:30 direct found 162 lag 676 drained 48 t 510 direct96-control-3-roundtrip-32f-20261119T183119Z-api/read
+19 18:31:33 direct found 246 lag 676 drained 48 t 514 direct96-control-3-roundtrip-32f-20261119T183119Z.json
+19 18:34:56 direct found 235 lag 676 drained 0 t 716 direct96-control-4-roundtrip-32f-20261119T183455Z-api/read
+19 18:35:01 direct found 162 lag 676 drained 48 t 721 direct96-control-4-roundtrip-32f-20261119T183455Z-api/read
+19 18:35:05 direct found 245 lag 676 drained 72 t 726 direct96-control-4-roundtrip-32f-20261119T183455Z-api/read
+19 18:35:09 direct found 164 lag 676 drained 48 t 729 direct96-control-4-roundtrip-32f-20261119T183455Z.json
+19 18:39:08 direct found 188 lag 676 drained 0 t 968 direct96-dump-roundtrip-32f-20261119T183907Z-api/readiness
+19 18:39:13 direct found 162 lag 677 drained 60 t 973 direct96-dump-roundtrip-32f-20261119T183907Z-api/readiness
+19 18:39:18 direct found 244 lag 676 drained 12 t 978 direct96-dump-roundtrip-32f-20261119T183907Z-api/readiness
+19 18:39:21 direct found 164 lag 676 drained 48 t 981 direct96-dump-roundtrip-32f-20261119T183907Z.json
+19 19:08:39 direct found 161 lag 676 drained 84 t 2740 direct96-catch-roundtrip-32f-20261119T190838Z-api/readines
+19 19:08:44 direct found 245 lag 677 drained 36 t 2744 direct96-catch-roundtrip-32f-20261119T190838Z-api/readines
+19 19:08:49 direct found 162 lag 676 drained 84 t 2749 direct96-catch-roundtrip-32f-20261119T190838Z-api/readines
+19 19:08:52 direct found 247 lag 676 drained 72 t 2753 direct96-catch-roundtrip-32f-20261119T190838Z.json
+19 19:10:25 direct found 201 lag 676 drained 84 t 2845 direct96-after-catch-roundtrip-32f-20261119T191023Z-api/re
+19 19:10:29 direct found 175 lag 677 drained 72 t 2850 direct96-after-catch-roundtrip-32f-20261119T191023Z-api/re
+19 19:10:34 direct found 245 lag 676 drained 72 t 2854 direct96-after-catch-roundtrip-32f-20261119T191023Z-api/re
+19 19:10:38 direct found 164 lag 664 drained 60 t 2858 direct96-after-catch-roundtrip-32f-20261119T191023Z.json
+19 19:16:18 direct found 222 lag 676 drained 0 t 68 direct96-restart-1-roundtrip-32f-20261119T191616Z-api/read
+19 19:16:22 direct found 161 lag 676 drained 84 t 73 direct96-restart-1-roundtrip-32f-20261119T191616Z-api/read
+19 19:16:27 direct found 243 lag 677 drained 48 t 77 direct96-restart-1-roundtrip-32f-20261119T191616Z-api/read
+19 19:16:31 direct found 163 lag 676 drained 0 t 81 direct96-restart-1-roundtrip-32f-20261119T191616Z.json
+19 19:35:08 direct found 238 lag 676 drained 0 t 67 direct96-relock-1-roundtrip-32f-20261119T193507Z-api/readi
+19 19:35:13 direct found 162 lag 676 drained 72 t 71 direct96-relock-1-roundtrip-32f-20261119T193507Z-api/readi
+19 19:35:17 direct found 245 lag 676 drained 48 t 76 direct96-relock-1-roundtrip-32f-20261119T193507Z-api/readi
+19 19:35:21 direct found 163 lag 675 drained 60 t 80 direct96-relock-1-roundtrip-32f-20261119T193507Z.json
+19 19:38:44 direct found 246 lag 675 drained 60 t 282 direct96-relock-2-roundtrip-32f-20261119T193843Z-api/readi
+19 19:38:48 direct found 162 lag 676 drained 0 t 287 direct96-relock-2-roundtrip-32f-20261119T193843Z-api/readi
+19 19:38:53 direct found 245 lag 676 drained 0 t 292 direct96-relock-2-roundtrip-32f-20261119T193843Z-api/readi
+19 19:38:57 direct found 164 lag 676 drained 84 t 295 direct96-relock-2-roundtrip-32f-20261119T193843Z.json
+19 19:42:19 direct found 246 lag 676 drained 0 t 498 direct96-relock-3-roundtrip-32f-20261119T194218Z-api/readi
+19 19:42:24 direct found 162 lag 676 drained 36 t 503 direct96-relock-3-roundtrip-32f-20261119T194218Z-api/readi
+19 19:42:29 direct found 244 lag 676 drained 24 t 507 direct96-relock-3-roundtrip-32f-20261119T194218Z-api/readi
+19 19:42:32 direct found 164 lag 676 drained 24 t 511 direct96-relock-3-roundtrip-32f-20261119T194218Z.json
+19 19:45:55 direct found 246 lag 676 drained 24 t 714 direct96-relock-4-roundtrip-32f-20261119T194554Z-api/readi
+19 19:46:00 direct found 163 lag 676 drained 48 t 718 direct96-relock-4-roundtrip-32f-20261119T194554Z-api/readi
+19 19:46:04 direct found 244 lag 676 drained 72 t 723 direct96-relock-4-roundtrip-32f-20261119T194554Z-api/readi
+19 19:46:08 direct found 164 lag 676 drained 0 t 727 direct96-relock-4-roundtrip-32f-20261119T194554Z.json
+19 19:55:43 direct found 208 lag 676 drained 0 t 1302 direct96-pulsereboot-noise-ch2-32f-20261119T195542Z-api/re
+19 19:55:48 direct found 163 lag 676 drained 48 t 1307 direct96-pulsereboot-noise-ch2-32f-20261119T195542Z-api/re
+19 19:55:53 direct found 245 lag 676 drained 48 t 1311 direct96-pulsereboot-noise-ch2-32f-20261119T195542Z-api/re
+19 19:55:56 direct found 165 lag 6591 drained 72 t 1315 direct96-pulsereboot-noise-ch2-32f-20261119T195542Z.json
+19 19:56:25 direct found 247 lag 676 drained 12 t 1343 direct96-pulsereboot-1-roundtrip-32f-20261119T195623Z-api/
+19 19:56:29 direct found 163 lag 676 drained 84 t 1348 direct96-pulsereboot-1-roundtrip-32f-20261119T195623Z-api/
+19 19:56:34 direct found 246 lag 677 drained 84 t 1353 direct96-pulsereboot-1-roundtrip-32f-20261119T195623Z-api/
+19 19:56:38 direct found 164 lag 676 drained 36 t 1356 direct96-pulsereboot-1-roundtrip-32f-20261119T195623Z.json
+19 20:13:01 direct found 195 lag 676 drained 36 t 2340 direct96-mhreboot-noise-ch2-32f-20261119T201300Z-api/readi
+19 20:13:06 direct found 245 lag 675 drained 84 t 2345 direct96-mhreboot-noise-ch2-32f-20261119T201300Z-api/readi
+19 20:13:11 direct found 163 lag 676 drained 60 t 2349 direct96-mhreboot-noise-ch2-32f-20261119T201300Z-api/readi
+19 20:13:15 direct found 246 lag 6587 drained 36 t 2353 direct96-mhreboot-noise-ch2-32f-20261119T201300Z.json
+19 20:13:43 direct found 210 lag 676 drained 48 t 2382 direct96-mhreboot-1-roundtrip-32f-20261119T201341Z-api/rea
+19 20:13:48 direct found 163 lag 676 drained 36 t 2387 direct96-mhreboot-1-roundtrip-32f-20261119T201341Z-api/rea
+19 20:13:53 direct found 244 lag 676 drained 36 t 2391 direct96-mhreboot-1-roundtrip-32f-20261119T201341Z-api/rea
+19 20:13:56 direct found 164 lag 676 drained 0 t 2395 direct96-mhreboot-1-roundtrip-32f-20261119T201341Z.json
+20 00:38:24 direct found 233 lag 675 drained 12 t 18262 direct96-ffpower-noise-ch2-32f-20261120T003823Z-api/readin
+20 00:38:28 direct found 162 lag 675 drained 60 t 18267 direct96-ffpower-noise-ch2-32f-20261120T003823Z-api/readin
+20 00:38:33 direct found 245 lag 675 drained 12 t 18272 direct96-ffpower-noise-ch2-32f-20261120T003823Z-api/readin
+20 00:38:37 direct found 163 lag 6585 drained 0 t 18275 direct96-ffpower-noise-ch2-32f-20261120T003823Z.json
+20 00:39:05 direct found 246 lag 675 drained 72 t 18303 direct96-ffpower-1-roundtrip-32f-20261120T003904Z-api/read
+20 00:39:09 direct found 163 lag 675 drained 84 t 18308 direct96-ffpower-1-roundtrip-32f-20261120T003904Z-api/read
+20 00:39:14 direct found 245 lag 675 drained 48 t 18313 direct96-ffpower-1-roundtrip-32f-20261120T003904Z-api/read
+20 00:39:18 direct found 164 lag 675 drained 0 t 18316 direct96-ffpower-1-roundtrip-32f-20261120T003904Z.json
+20 00:42:49 direct found 222 lag 675 drained 12 t 18528 direct96-ffpower-2-roundtrip-32f-20261120T004248Z-api/read
+20 00:42:54 direct found 164 lag 675 drained 72 t 18533 direct96-ffpower-2-roundtrip-32f-20261120T004248Z-api/read
+20 00:42:59 direct found 245 lag 676 drained 84 t 18537 direct96-ffpower-2-roundtrip-32f-20261120T004248Z-api/read
+20 00:43:02 direct found 165 lag 675 drained 60 t 18541 direct96-ffpower-2-roundtrip-32f-20261120T004248Z.json
+20 00:46:25 direct found 248 lag 675 drained 0 t 18743 direct96-ffpower-3-roundtrip-32f-20261120T004624Z-api/read
+20 00:46:29 direct found 165 lag 675 drained 72 t 18748 direct96-ffpower-3-roundtrip-32f-20261120T004624Z-api/read
+20 00:46:34 direct found 244 lag 675 drained 0 t 18753 direct96-ffpower-3-roundtrip-32f-20261120T004624Z-api/read
+20 01:24:17 direct found 252 lag 676 drained 0 t 135 direct96-ffpower-3-roundtrip-32f-20261120T012416Z-api/read
+20 01:24:22 direct found 163 lag 676 drained 48 t 139 direct96-ffpower-3-roundtrip-32f-20261120T012416Z-api/read
+20 01:24:26 direct found 245 lag 676 drained 84 t 144 direct96-ffpower-3-roundtrip-32f-20261120T012416Z-api/read
+20 01:24:30 direct found 164 lag 676 drained 0 t 148 direct96-ffpower-3-roundtrip-32f-20261120T012416Z.json
+20 01:27:52 direct found 187 lag 676 drained 60 t 350 direct96-ffpower-4-roundtrip-32f-20261120T012751Z-api/read
+20 01:27:57 direct found 161 lag 676 drained 60 t 355 direct96-ffpower-4-roundtrip-32f-20261120T012751Z-api/read
+20 01:28:02 direct found 175 lag 676 drained 72 t 360 direct96-ffpower-4-roundtrip-32f-20261120T012751Z-api/read
+20 01:28:05 direct found 246 lag 676 drained 60 t 363 direct96-ffpower-4-roundtrip-32f-20261120T012751Z.json
+20 01:57:49 preset found 241 lag 676 drained 0 t 84 mon96b-unity-1-roundtrip-32f-20261120T015747Z-api/readines
+20 01:57:53 preset found 170 lag 676 drained 0 t 89 mon96b-unity-1-roundtrip-32f-20261120T015747Z-api/readines
+20 01:57:58 preset found 249 lag 676 drained 12 t 94 mon96b-unity-1-roundtrip-32f-20261120T015747Z-api/readines
+20 01:58:02 preset found 170 lag 676 drained 24 t 98 mon96b-unity-1-roundtrip-32f-20261120T015747Z.json
+20 02:01:25 preset found 168 lag 676 drained 12 t 300 mon96b-unity-2-roundtrip-32f-20261120T020124Z-api/readines
+20 02:01:29 preset found 251 lag 676 drained 84 t 305 mon96b-unity-2-roundtrip-32f-20261120T020124Z-api/readines
+20 02:01:34 preset found 170 lag 677 drained 12 t 310 mon96b-unity-2-roundtrip-32f-20261120T020124Z-api/readines
+20 02:01:38 preset found 252 lag 771 drained 0 t 313 mon96b-unity-2-roundtrip-32f-20261120T020124Z.json
+20 02:05:00 preset found 169 lag 677 drained 12 t 516 mon96b-unity-3-roundtrip-32f-20261120T020459Z-api/readines
+20 02:05:05 preset found 167 lag 676 drained 36 t 520 mon96b-unity-3-roundtrip-32f-20261120T020459Z-api/readines
+20 02:05:09 preset found 250 lag 676 drained 84 t 525 mon96b-unity-3-roundtrip-32f-20261120T020459Z-api/readines
+20 02:05:13 preset found 171 lag 676 drained 36 t 529 mon96b-unity-3-roundtrip-32f-20261120T020459Z.json
+20 02:08:36 preset found 180 lag 676 drained 0 t 731 mon96b-unity-4-roundtrip-32f-20261120T020835Z-api/readines
+20 02:08:40 preset found 250 lag 676 drained 12 t 736 mon96b-unity-4-roundtrip-32f-20261120T020835Z-api/readines
+20 02:08:45 preset found 169 lag 676 drained 72 t 741 mon96b-unity-4-roundtrip-32f-20261120T020835Z-api/readines
+20 02:08:49 preset found 252 lag 772 drained 72 t 744 mon96b-unity-4-roundtrip-32f-20261120T020835Z.json
+20 02:12:11 preset found 160 lag 678 drained 24 t 947 mon96b-unity-loop8-soak-600s-32f-20261120T021210Z-api/read
+20 02:12:16 preset found 251 lag 676 drained 24 t 951 mon96b-unity-loop8-soak-600s-32f-20261120T021210Z-api/read
+20 02:12:20 preset found 169 lag 676 drained 84 t 956 mon96b-unity-loop8-soak-600s-32f-20261120T021210Z-api/read

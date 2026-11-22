@@ -1,0 +1,3 @@
+USB t=1860.0 usb=open tx=flow rx=flow tx_mean=261.0 rx_mean=187.9 rx_depth=89..110 pitch_c=1000014 pitch_p=1000015 tx_i=-16.95 rx_i=16.91 usb_tx=71628438 usb_rx=71658216 tx_links=8 tx_reprimes=0 rx_primes=8 rx_overflow=540 rx_idle_discards=106876575 capture_faults=0 playback_faults=0 detaches=0 pitch_write_errors=0 servo_rejected=0 out_peak=8388606,8388607 back_peak=8388606,8388607 out_holes=4/1020 back_holes=0/0
+NRestarts=0
+state=ok rate=12017 restarts=0 invocation=96c8e60439a54b59a49483959d90a484 time=2026-11-22T04:46:00Z

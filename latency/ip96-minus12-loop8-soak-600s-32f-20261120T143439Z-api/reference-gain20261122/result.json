@@ -1,0 +1,164 @@
+{
+  "policy": {
+    "id": "dante-event-reference-v2",
+    "maximumErrorLSB": 2.0,
+    "maximumSearchLagFrames": 9600,
+    "minimumAnchorRangeLSB": 256,
+    "inputModel": "measured host output gain, nearest 24-bit",
+    "returnModel": "measured host input gain",
+    "gainFitting": false,
+    "alignment": "one integer offset for all channels and events",
+    "zeroRunRule": "exact predicted zero codes with nonzero boundaries",
+    "coverage": "retained event windows only",
+    "wholeRunValidated": false,
+    "maximumSeconds": 3600,
+    "monitorModel": "none, or with --monitor-state the steady state resolved by the owner's monitor_ctl from the state and limits files, at rest from the first frame (assumes the monitor did not change during the capture)"
+  },
+  "status": "matched-events",
+  "wholeRunValidated": false,
+  "coveredInputFrames": 258,
+  "events": [
+    {
+      "channel": 4,
+      "startInputFrame": 7802881,
+      "referenceStartFrame": 7801969,
+      "zeroFrames": 6,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 0.0,
+      "matchedFrames": 38
+    },
+    {
+      "channel": 4,
+      "startInputFrame": 8963726,
+      "referenceStartFrame": 8962814,
+      "zeroFrames": 5,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 1.0,
+      "matchedFrames": 37
+    },
+    {
+      "channel": 4,
+      "startInputFrame": 24351135,
+      "referenceStartFrame": 24350223,
+      "zeroFrames": 5,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 1.0,
+      "matchedFrames": 37
+    },
+    {
+      "channel": 4,
+      "startInputFrame": 39459284,
+      "referenceStartFrame": 39458372,
+      "zeroFrames": 4,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 1.0,
+      "matchedFrames": 36
+    },
+    {
+      "channel": 4,
+      "startInputFrame": 46826888,
+      "referenceStartFrame": 46825976,
+      "zeroFrames": 4,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 1.0,
+      "matchedFrames": 36
+    },
+    {
+      "channel": 4,
+      "startInputFrame": 51128247,
+      "referenceStartFrame": 51127335,
+      "zeroFrames": 4,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 1.0,
+      "matchedFrames": 36
+    },
+    {
+      "channel": 4,
+      "startInputFrame": 55954600,
+      "referenceStartFrame": 55953688,
+      "zeroFrames": 6,
+      "alignmentAnchorChannel": 1,
+      "maximumErrorLSB": 1.0,
+      "matchedFrames": 38
+    }
+  ],
+  "inputIndexMinusSourceIndex": 912,
+  "evidenceComplete": true,
+  "provenance": {
+    "exporterSHA256": "344d8b8e026206aa1124fd77fd366c2cb1cf7a115a7c4080b2644a0f1067ecd7",
+    "coreSHA256": "8a095aaa8c16ed4f756f6f69fc52e880a8cf695a9aabccf97afe56e98b5a63df",
+    "monitorControlSHA256": "6800f1fb0ffcdc4b1db8897b0411e37663fb6ec4b0c14f76d58d94b7ca57a33c",
+    "artifactSHA256": "5792bc528131ae5f3ab7890bd1b7365c30e707ded3d20d67aa77f38693542c14",
+    "referenceSHA256": "a69c71a06d40b339c83eed8793b143111c379ea8789c5b1d7a52972aab9237dd",
+    "compiler": "Apple clang version 21.0.0 (clang-2100.4.1.1)",
+    "monitorResolved": "MONITOR applied seq=77 active=speakers limits=defaults max_db=0.0 set=speakers:level_db=-12.0,trim_db=0.0,dim=0,mute=0,fold=full,engaged=full,gain_db=-12.0 gains=0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,1,1,1,1"
+  },
+  "ranges": [
+    [
+      7793029,
+      7802667
+    ],
+    [
+      8953874,
+      8963511
+    ],
+    [
+      24341283,
+      24350920
+    ],
+    [
+      39449432,
+      39459068
+    ],
+    [
+      46817036,
+      46826672
+    ],
+    [
+      51118395,
+      51128031
+    ],
+    [
+      55944748,
+      55954386
+    ]
+  ],
+  "hostGain": {
+    "output": 1.0,
+    "input": 1.0
+  },
+  "hostGainSHA256": "f8ce68f503daff9e99b9ee12400e90b480a3eca58c56ebe87d42aa3e6a15670e",
+  "loopChannels": 8,
+  "reportSHA256": "35d53cd5439aaee7221f73a95ac8354577f1ab0ba6daf09c53353ed78c8aa544",
+  "checkerSHA256": "1e8238f2abffa3635ae4a2005d7fd64729103d32744acef6a749b66283ab005f",
+  "artifact": "outputs/latency/ip96-minus12-loop8-soak-600s-32f-20261120T143439Z-api/preset.dsp",
+  "seconds": 600,
+  "longestZeroRuns": [
+    1,
+    1,
+    1,
+    6,
+    1,
+    1,
+    1,
+    1,
+    57408000,
+    57408000,
+    57408000,
+    57408000,
+    57408000,
+    57408000,
+    57408000,
+    57408000
+  ],
+  "monitor": {
+    "artifactHasMonitorSection": true,
+    "state": {
+      "path": "outputs/latency/ip96-minus12-loop8-soak-600s-32f-20261120T143439Z-api/monitor-state.txt",
+      "sha256": "61d4c21e94462e3b2452f71f57453f9b64204eab2e26daaa39c0497b4db53820"
+    },
+    "limits": null,
+    "model": "steady state from the state file with default limits",
+    "resolved": "MONITOR applied seq=77 active=speakers limits=defaults max_db=0.0 set=speakers:level_db=-12.0,trim_db=0.0,dim=0,mute=0,fold=full,engaged=full,gain_db=-12.0 gains=0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,0.251188643,1,1,1,1"
+  }
+}
